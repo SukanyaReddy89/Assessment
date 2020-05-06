@@ -1,4 +1,4 @@
-# An application to show all recipes and the actions to create, update and delete a recipe.
+# An application to show all recipes and the actions to create, Read(retrieve), update and delete a recipe.
 
 ## Allows users to create their own recipes, mention their ingredients, calculate amount of calories and proteins of that desired recipe.
 
